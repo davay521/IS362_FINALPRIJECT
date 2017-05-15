@@ -1,1 +1,1 @@
-# IS362_FINALPRIJECT
+# IS362_FinalProject
